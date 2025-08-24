@@ -44,7 +44,7 @@ Throughout development, I kept notes on what worked, what didnâ€™t, and what Iâ€
 
 I love feedback, suggestions, and collaboration.  
 - Email: (karlashleybesa@gmail.com)
-- LinkedIn: (add link)
+- LinkedIn: ([add link](https://linkedin.com/in/karl-ashley-besa-8a3b83294))
 - GitHub: [krxley](https://github.com/krxley)
 
 ## License
